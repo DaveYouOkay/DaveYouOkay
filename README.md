@@ -1,10 +1,9 @@
 I will just complete the github sentence.
 
 - 👋 Hi, I’m @DaveYouOkay .
-- 👀 I’m interested in ... video games, e-sport, streaming, programming, learning stuff but i do none of that because i suck.
-- 🌱 I’m currently learning ... python, c++, happiness.
-- 💞️ I’m looking to collaborate on ... life.
-- 📫 How to reach me ... dm me on my twitter account.
+- 👀 I’m interested in ... Video games, e-sport, streaming, programming, Woodworking, learning stuff.
+- 🌱 I’m currently learning ... Python, C++.
+- 📫 How to reach me ... Dm me on my twitter account.
 
 
 <!---
