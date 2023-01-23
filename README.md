@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @DaveYouOkay .
-- 👀 I’m interested in ... Video games, e-sport, streaming, Programming, Woodworking, Learning a lot of stuff.
-- 🌱 I’m currently learning ... Python, C++, Blender, Unity, Unreal Engine.
+- 👀 I’m interested in ... Video games, E-Sport, Virtual Reality, Programming, Woodworking, Learning a lot of stuff.
+- 🌱 I’m currently learning ... C#, Blender, Unity, Unreal Engine.
 
 
 <!---
