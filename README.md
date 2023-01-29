@@ -5,8 +5,10 @@
 
 
 ### Pourquoi me prendre à l'ESGI ?
-J'espère que ma forte motivation pour vous intégrer a su répondre à certaine de vos attentes ! \n
-J'ai également été le plus honnête possible tout au long de ma démarche pour représenter la personne que je suis vraiment. \n
+J'espère que ma forte motivation pour vous intégrer a su répondre à certaine de vos attentes !
+
+J'ai également été le plus honnête possible tout au long de ma démarche pour représenter la personne que je suis vraiment.
+
 Enfin, j’essaie continuellement de m’améliorer pour devenir une meilleure personne et que ma présence soit bénéfique pour les autres.\n
 
 <!---
