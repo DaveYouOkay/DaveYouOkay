@@ -5,9 +5,9 @@
 
 
 ### Pourquoi me prendre à l'ESGI ?
-J'espère que ma forte motivation pour vous intégrer a su répondre à certaine de vos attentes ! 
-J'ai également été le plus honnête possible tout au long de ma démarche pour représenter ma personne.
-Enfin, j’essaie continuellement de m’améliorer pour devenir un meilleur humain et bénéficier les autres de ma présence.
+J'espère que ma forte motivation pour vous intégrer a su répondre à certaine de vos attentes ! \n
+J'ai également été le plus honnête possible tout au long de ma démarche pour représenter la personne que je suis vraiment. \n
+Enfin, j’essaie continuellement de m’améliorer pour devenir une meilleure personne et que ma présence soit bénéfique pour les autres.\n
 
 <!---
 DaveYouOkay/DaveYouOkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
