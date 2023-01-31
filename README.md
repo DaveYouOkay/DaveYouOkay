@@ -9,7 +9,7 @@ J'espère que ma forte motivation pour vous intégrer a su répondre à certaine
 
 J'ai également été le plus honnête possible tout au long de ma démarche pour représenter la personne que je suis vraiment.
 
-Enfin, j’essaie continuellement de m’améliorer pour devenir une meilleure personne et que ma présence soit bénéfique pour les autres.\n
+Enfin, j’essaie continuellement de m’améliorer pour devenir une meilleure personne et que ma présence soit bénéfique pour les autres.
 
 <!---
 DaveYouOkay/DaveYouOkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
